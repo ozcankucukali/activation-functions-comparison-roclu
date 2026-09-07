@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use RoCLU or this code, please cite the associated paper."
+title: "RoCLU: Activation Functions Comparison"
+type: software
+authors:
+  - family-names: "Küçükali"
+    given-names: "Özcan"
+  - family-names: "Bozkurt"
+    given-names: "M. Hakan"
+  - family-names: "Ulutaş"
+    given-names: "Esma"
+  - family-names: "Bozkurt"
+    given-names: "Işılay"
+date-released: 2026-09-03
+url: "https://github.com/ozcankucukali/activation-functions-comparison-roclu"
+preferred-citation:
+  type: article
+  title: "A Novel Activation Function for Enhancing Deep Neural Network Stability and Performance"
+  authors:
+    - family-names: "Küçükali"
+      given-names: "Özcan"
+    - family-names: "Bozkurt"
+      given-names: "M. Hakan"
+    - family-names: "Ulutaş"
+      given-names: "Esma"
+    - family-names: "Bozkurt"
+      given-names: "Işılay"
+  journal: "Concurrency and Computation: Practice and Experience"
+  volume: 38
+  year: 2026
+  doi: "10.1002/cpe.70944"
